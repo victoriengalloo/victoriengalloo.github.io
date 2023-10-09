@@ -16,5 +16,6 @@
 - Community management
 
 ## Contact
-- Email: galloo.victorien@mail.com
-- LinkedIn: [Mon LinkedIn]([https://www.linkedin.com/in/victorien-galloo-ab5a0220b/]
+- 📧: galloo.victorien@mail.com
+- 📞: 06 33 51 09 64
+- Linkedin : [Mon LinkedIn]([https://www.linkedin.com/in/victorien-galloo-ab5a0220b/]
